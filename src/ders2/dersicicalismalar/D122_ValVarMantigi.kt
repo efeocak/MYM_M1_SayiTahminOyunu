@@ -1,4 +1,4 @@
-package ders2
+package ders2.dersicicalismalar
 
 fun main() {
     val uygulamaAdi = "Hava Durumu Pro"

@@ -1,4 +1,4 @@
-package ders2
+package ders2.dersicicalismalar
 
 fun main() {
     // String: Metinsel veri
