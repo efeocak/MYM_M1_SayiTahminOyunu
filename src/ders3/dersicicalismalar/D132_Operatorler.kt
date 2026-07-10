@@ -1,4 +1,4 @@
-package ders3
+package ders3.dersicicalismalar
 
 fun main() {
     var sepetTutari = 120
