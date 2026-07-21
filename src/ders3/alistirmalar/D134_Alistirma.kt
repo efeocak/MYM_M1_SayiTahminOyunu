@@ -8,8 +8,4 @@ fun main() {
     val yas = readln().toDouble()
 
     println("Merhaba $kullaniciAdi! Demek $yas yaşındasın.")
-
-
-
-
 }
